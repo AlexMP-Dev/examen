@@ -19,8 +19,8 @@
 -- Table structure for table `alumno`
 --
 
-DROP DATABASE IF EXISTS `examen_muguerza`;
-CREATE DATABASE `examen_muguerza`;
+--DROP DATABASE IF EXISTS `examen_muguerza`;
+--CREATE DATABASE `examen_muguerza`;
 
 USE DATABASE `examen_muguerza`;
 
