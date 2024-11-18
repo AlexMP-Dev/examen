@@ -20,7 +20,7 @@
 --
 
 
-USE DATABASE `examen_muguerza`;
+USE examen_muguerza;
 
 DROP TABLE IF EXISTS `alumno`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
